@@ -80,3 +80,6 @@ Epoch 20/20
 Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 60000/60000 [==============================] - 6s 102us/step - loss: 0.2404 - acc: 0.8798 - val_loss: 0.0200 - val_acc: 0.9941
 <keras.callbacks.History at 0x7fde45d520b8>
+
+
+Strategy was to reduce the number of parameters in the first parameter and kept dropout value to 0.2 to reduce the val_loss

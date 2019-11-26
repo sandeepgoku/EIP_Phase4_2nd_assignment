@@ -82,4 +82,4 @@ Epoch 00020: LearningRateScheduler setting learning rate to 0.000424869.
 <keras.callbacks.History at 0x7fde45d520b8>
 
 
-Strategy was to reduce the number of parameters in the first parameter and kept dropout value to 0.2 to reduce the val_loss
+Strategy was to reduce the number of parameters in the first parameter and kept dropout value to 0.2 to reduce the val_loss and got the accuracy of 99.43 at 11th epoch
